@@ -14,6 +14,7 @@ issues, and style problems — with clear written justifications.
 | 03 | Async Download | Async/await, parallelism, deadlocks |
 | 04 | SQL Query | Security, SQL injection prevention |
 | 05 | Refactoring | Maintainability, clean code |
+| 06 | UserService Refactor | Security, Performance, Async, Null safety, xUnit tests |
 
 ## About Me
 - 17+ years in .NET development (CGI, Logica)
